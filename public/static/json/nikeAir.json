@@ -1,0 +1,77 @@
+[
+  {
+    "userId": "1",
+    "id": "1",
+    "name": "Nike SB Black",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "image": [
+      "./static/img/nike-air/air1/air-1.jpg",
+      "./static/img/nike-air/air1/air-2.jpg", 
+      "./static/img/nike-air/air1/air-3.jpg",
+      "./static/img/nike-air/air1/air-4.jpg" 
+    ]
+  },
+  {
+    "userId": "2",
+    "id": "2",
+    "name": "Nike SB Red",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "image": [
+      "./static/img/nike-air/air2/air-1.jpg",
+      "./static/img/nike-air/air2/air-2.jpg", 
+      "./static/img/nike-air/air2/air-3.jpg",
+      "./static/img/nike-air/air2/air-4.jpg" 
+    ]
+  },
+  {
+    "userId": "3",
+    "id": "3",
+    "name": "Nike SB Blue",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "image": [
+      "./static/img/nike-air/air3/air-1.jpg",
+      "./static/img/nike-air/air3/air-2.jpg", 
+      "./static/img/nike-air/air3/air-3.jpg",
+      "./static/img/nike-air/air3/air-4.jpg" 
+    ]
+  },
+  {
+    "userId": "4",
+    "id": "4",
+    "name": "Nike SB Green",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "image": [
+      "./static/img/nike-air/air4/air-1.jpg",
+      "./static/img/nike-air/air4/air-2.jpg", 
+      "./static/img/nike-air/air4/air-3.jpg",
+      "./static/img/nike-air/air4/air-4.jpg" 
+    ]
+  },
+  {
+    "userId": "5",
+    "id": "5",
+    "name": "Nike SB Green",
+    "OldPrice": 320.00,
+    "price": 289.99,
+    "description": "Tênis Nike SB Chron Slr Preto",
+    "sizes": [39, 40],
+    "image": [
+      "./static/img/nike-air/air5/air-1.jpg",
+      "./static/img/nike-air/air5/air-2.jpg", 
+      "./static/img/nike-air/air5/air-3.jpg",
+      "./static/img/nike-air/air5/air-4.jpg" 
+    ]
+  }
+]
